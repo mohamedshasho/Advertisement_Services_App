@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # auth
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Advertisement_Services_App
+Developed an advertising app streamlining billboard and social media promotions for user-defined advertising campaigns.
+>>>>>>> 0300664d3ebf8cbbc7520dc1c9ed7b2f8b16a990
